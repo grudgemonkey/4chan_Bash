@@ -1,5 +1,5 @@
 # 4chan_Bash
-a simple bash script which sends you to any 4chan board via the command line
+a simple shell script which sends you to any 4chan board via the command line
 
 this is just a simple project i did since i recently learned how to put arguments in my shell scripts
 
